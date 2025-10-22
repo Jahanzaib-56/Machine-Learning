@@ -23,8 +23,9 @@ Here, you'll find:
 
 Right now, I'm concentrating on:
 
-* **[Current Topic, e.g., Building and training Convolutional Neural Networks]**
-* **[Current Project, e.g., Creating an image classifier for the MNIST dataset]**
+* **[Data Preparation for Machine Learning]**
+* **[Machine Learning Types: Supervised, Unsupervised and Reinforcement Learning]**
+* **[Core Machine Learning Algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest etc]**
 
 ---
 
@@ -34,7 +35,7 @@ My objectives for this learning journey are:
 * [ ]  Build a strong foundation in core ML concepts.
 * [ ]  Implement major algorithms from scratch to understand them deeply.
 * [ ]  Complete 3+ end-to-end portfolio projects.
-* [ ]  [Add your own personal goal here, e.g., "Master TensorFlow" or "Learn about NLP"]
+* [ ]  Be a Master Computer Vision Engineer
 
 ---
 
