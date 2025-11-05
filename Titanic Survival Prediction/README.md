@@ -61,7 +61,7 @@ It involves complete ML workflow including **EDA, data cleaning, feature enginee
 ## 🚀 How to Run the Project  
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/titanic-survival-prediction.git
+git clone https://github.com/Jahanzaib-56/titanic-survival-prediction.git
 
 # Navigate to project
 cd titanic-survival-prediction
