@@ -55,3 +55,31 @@ def step_gradient(curr_b, curr_m, df, learningRate):
     new_m = curr_m - (learningRate * m_gradient)
 
     return [new_b, new_m]
+
+def LinearRegression():
+
+    # Step-01: Load the data
+    df = np.genfromtxt('data.csv', delimiter=',')
+
+    # Step-02: Defining hyperparameters
+
+    # Learning rate: It dictates how fast our model should converge i.e get the best fit line
+    alpha = 0.0001 
+
+    # paramters of line equation y = mx + b
+    initial_m = 0
+    initial_b = 0
+
+
+    num_iteration = 1000 # Our model will be trained 1000 times
+
+    print(f'Starting grad_descent at b = {initial_b}, m = {initial_m}, error = {compute_error(initial_b, initial_m, df)}')
+
+    [b, m] = compute_gradient_descent(df, initial_b, initial_m, alpha, num_iteration)
+
+    print("\nRunning.........")
+
+    print(f'\nAfter {num_iteration} iterations, b = {b}, m = {m}, error = {compute_error(b, m, df)} ')
+
+if __name__ == '__main__':
+    LinearRegression()
