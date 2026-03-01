@@ -19,26 +19,6 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset Details
-The dataset contains information about loan applicants, including:
-
-| Feature | Description |
-|---------|-------------|
-| `Gender` | Male / Female |
-| `Married` | Yes / No |
-| `Dependents` | Number of dependents |
-| `Education` | Graduate / Not Graduate |
-| `Self_Employed` | Yes / No |
-| `ApplicantIncome` | Applicant's income |
-| `CoapplicantIncome` | Co-applicant's income |
-| `LoanAmount` | Loan amount requested |
-| `Loan_Amount_Term` | Term of the loan in months |
-| `Credit_History` | 1 = Meets guidelines, 0 = Does not meet |
-| `Property_Area` | Urban / Semiurban / Rural |
-| `Loan_Status` | Target variable |
-
----
-
 ## 🔧 Data Preprocessing
 - Handling missing values in numeric and categorical columns.  
 - Converting invalid or negative values to proper format.  
