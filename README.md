@@ -23,9 +23,9 @@ Here, you'll find:
 
 Right now, I'm concentrating on:
 
-* **[Data Preparation for Machine Learning]**
-* **[Machine Learning Types: Supervised, Unsupervised and Reinforcement Learning]**
-* **[Core Machine Learning Algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest etc]**
+* **Data Preparation for Machine Learning**
+* **Machine Learning Types: Supervised, Unsupervised, and Reinforcement Learning**
+* **Core Machine Learning Algorithms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, etc.**
 
 ---
 
@@ -64,4 +64,4 @@ I'm always open to connecting with fellow learners, collaborators, and developer
 
 ---
 
-*This README was inspired by templates from the developer community. Thank you for visiting!*
+*This README was inspired by templates created by the developer community. Thank you for visiting!*
